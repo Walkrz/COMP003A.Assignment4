@@ -4,7 +4,7 @@
     {
        ﻿/* Author: Zachary Walker
         * Course: COMP-003A-L01
-        * Purpose: Code for Assignment 4
+        * Purpose: Code for Assignment 4 
         */
 
         static void Main(string[] args)
